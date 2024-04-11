@@ -348,5 +348,4 @@ Bem irei finalizar o artigo por aqui, falando sobre funções, porém o Dart com
 
 ---
 
-> Autor: [Paulo J. Cagol](www.paulocagol.dev.br)  
-> URL: https://www.paulocagol.dev.br/pt-br/00004-introducao-linguagem-dart/  
+> Fonte: [Paulo J. Cagol](www.paulocagol.dev.br)
